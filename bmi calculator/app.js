@@ -28,6 +28,5 @@ else if(weight === '' || weight < 0 || isNaN(weight)){
 
     }
    
-  
    
 });
